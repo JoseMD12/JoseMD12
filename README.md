@@ -25,10 +25,7 @@
 <div>
 <a href="https://github.com/JoseMD12">
           
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMD12&layout=compact&langs_count=7&theme=github_dark"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoseMD12&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMD12&layout=compact&theme=midnight-purple&border_color=9745f5&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
