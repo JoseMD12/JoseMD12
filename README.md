@@ -5,7 +5,8 @@
 
 ### Favorite Tech and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> &nsbp; <img scr="https://insomnia.rest/images/insomnia-logo.svg" width="40" height="40"/>
+
           
 
 ### Knowledge
