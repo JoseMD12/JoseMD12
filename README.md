@@ -5,7 +5,7 @@
   <a href="mailto:josehenriquedotta61@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-Líder Técnico e Desenvolvedor de Software focado em arquiteturas de alta performance e desenvolvimento de equipes.
+Líder Técnico e Desenvolvedor de Software.
 
 *(Nota: Meu trabalho diário é focado em repositórios privados, por isso minha atividade pública é menos frequente.)*
 
