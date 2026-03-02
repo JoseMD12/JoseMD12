@@ -38,16 +38,3 @@ Líder Técnico e Desenvolvedor de Software.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> &nbsp;
-
----
-
-### 📊 Estatísticas
-
-<p align="center" width="100%">
-  <a href="https://github.com/JoseMD12">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMD12&layout=compact&theme=dracula&border_color=9745f5&border_radius=10" />
-  </a>
-  <a href="https://github.com/JoseMD12">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseMD12&show_icons=true&theme=dracula&border_color=9745f5&border_radius=10" />
-  </a>
-</p>
