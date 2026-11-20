@@ -10,7 +10,7 @@ Desenvolvedor backend que gosta de sistemas distribuídos, código bem organizad
 
 <img src="https://raw.githubusercontent.com/JonathanFerraz/JonathanFerraz/master/.github/rainbow.gif" width="100%">
 
-### ⚡ Rapidinho sobre mim
+### ⚡ Sobre mim
 
 - 💻 Dev Backend Pleno (.NET/C#) no **Instituto de Pesquisas Eldorado**
 - 🏭 Curto mensageria, microsserviços e domínios complexos.
