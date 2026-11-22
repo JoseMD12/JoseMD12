@@ -93,11 +93,9 @@ Desenvolvedor backend que gosta de sistemas distribuídos, código bem organizad
 #### 🌱 Estudando agora
 Foco em melhorar o processo de desenvolvimento de software gerado por IA:
 
-<img src="https://img.shields.io/badge/-RAG-6E40C9?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/-Fine--tuning-6E40C9?style=for-the-badge" alt="Fine-tuning"/>
-<img src="https://img.shields.io/badge/-Bancos%20vetoriais-6E40C9?style=for-the-badge" alt="Bancos vetoriais"/>
-<img src="https://img.shields.io/badge/-AI%20Harness-6E40C9?style=for-the-badge" alt="AI Harness"/>
-<img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+<p>
+  <img src="https://img.shields.io/badge/-RAG-6E40C9?style=for-the-badge" alt="RAG"/> <img src="https://img.shields.io/badge/-Fine--tuning-6E40C9?style=for-the-badge" alt="Fine-tuning"/> <img src="https://img.shields.io/badge/-Bancos%20vetoriais-6E40C9?style=for-the-badge" alt="Bancos vetoriais"/> <img src="https://img.shields.io/badge/-AI%20Harness-6E40C9?style=for-the-badge" alt="AI Harness"/> <img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+</p>
 
 ### 😄 Sobre mim
 
