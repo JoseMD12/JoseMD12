@@ -24,6 +24,10 @@ Desenvolvedor backend que gosta de sistemas distribuídos, código bem organizad
 
 - **[FinanceHub](https://github.com/JoseMD12/finance-hub)**: agregador de finanças pessoais via Open Finance Brasil. Microsserviços em .NET 10 com Clean Architecture + DDD, RabbitMQ/MassTransit com Transactional Outbox e front em React 19.
 
+### ✅ Projetos concluídos
+
+- **[AutoReparos](https://github.com/Grupo78-PosTech-15SOAT/AutoReparos)** (Pós-Tech FIAP, em grupo): gestão de oficina mecânica em microsserviços .NET 10 na AWS. Saga orquestrada com DynamoDB, SQS/SNS, EKS provisionado com Terraform e Helm, Lambda de autenticação e um pipeline de CI/CD com SonarCloud por serviço.
+
 ### 🛠️ Tecnologias
 
 #### No dia a dia
@@ -55,11 +59,12 @@ Desenvolvedor backend que gosta de sistemas distribuídos, código bem organizad
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" title="Azure"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code"/> &nbsp;
-
-#### 🌱 Estudando agora
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" width="40" height="40" alt="AWS" title="AWS"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" title="Terraform"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="40" height="40" alt="Helm" title="Helm"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" width="40" height="40" alt="DynamoDB" title="DynamoDB"/> &nbsp;
+
+#### 🌱 Estudando agora
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Apache Kafka" title="Apache Kafka"/> &nbsp;
 
 ### 😄 Sobre mim
