@@ -27,6 +27,7 @@ Desenvolvedor backend que gosta de sistemas distribuídos, código bem organizad
 ### ✅ Projetos concluídos
 
 - **[AutoReparos](https://github.com/Grupo78-PosTech-15SOAT/AutoReparos)** (Pós-Tech FIAP, em grupo): gestão de oficina mecânica em microsserviços .NET 10 na AWS. Saga orquestrada com DynamoDB, SQS/SNS, EKS provisionado com Terraform e Helm, Lambda de autenticação e um pipeline de CI/CD com SonarCloud por serviço.
+- **[rfid-tracking](https://github.com/JoseMD12/rfid-tracking)** (TCC, PUCRS 2024): rastreamento de estoque com RFID. Leitor ESP32 enviando eventos a uma API NestJS, com dashboard React atualizado em tempo real via WebSocket.
 
 ### 🛠️ Tecnologias
 
